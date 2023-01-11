@@ -1,0 +1,7 @@
+8	n_components=2, perplexity=5, early_exaggeration=25, learning_rate=600, init='random', random_state=2000, metric='precomputed', verbose=1
+9	n_components=2, perplexity=10, early_exaggeration=25, learning_rate=600, init='random', random_state=2000, metric='precomputed', verbose=1
+10	n_components=2, perplexity=5, early_exaggeration=25, learning_rate=800, init='random', random_state=2000, metric='precomputed', verbose=1
+11	n_components=2, perplexity=10, early_exaggeration=25, learning_rate=800, init='random', random_state=2000, metric='precomputed', verbose=1
+12	n_components=2, perplexity=5, early_exaggeration=25, learning_rate=1000, init='random', random_state=2000, metric='precomputed', verbose=1
+13	n_components=2, perplexity=10, early_exaggeration=25, learning_rate=1000, init='random', random_state=2000, metric='precomputed', verbose=1
+666	n_components=2, perplexity=5, early_exaggeration=25, learning_rate=800, init='random', random_state=2000, metric='precomputed', verbose=1
