@@ -1,6 +1,0 @@
-14	n_components=2, perplexity=5, early_exaggeration=25, learning_rate=600, init='random', random_state=6000, metric='precomputed', verbose=1
-15	n_components=2, perplexity=10, early_exaggeration=25, learning_rate=600, init='random', random_state=6000, metric='precomputed', verbose=1
-16	n_components=2, perplexity=5, early_exaggeration=25, learning_rate=800, init='random', random_state=6000, metric='precomputed', verbose=1
-17	n_components=2, perplexity=10, early_exaggeration=25, learning_rate=800, init='random', random_state=6000, metric='precomputed', verbose=1
-18	n_components=2, perplexity=5, early_exaggeration=25, learning_rate=1000, init='random', random_state=6000, metric='precomputed', verbose=1
-19	n_components=2, perplexity=10, early_exaggeration=25, learning_rate=1000, init='random', random_state=6000, metric='precomputed', verbose=1
