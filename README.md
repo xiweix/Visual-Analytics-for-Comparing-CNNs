@@ -1,6 +1,6 @@
 # VAC-CNN
-Code for paper "[VAC-CNN: A Visual Analytics System for Comparative Studies of Deep Convolutional Neural Networks](https://ieeexplore.ieee.org/document/9751204)". 
-([ArXiv](https://arxiv.org/abs/2110.13252))
+Code for paper "VAC-CNN: A Visual Analytics System for Comparative Studies of Deep Convolutional Neural Networks". 
+([Paper](https://ieeexplore.ieee.org/document/9751204)) ([ArXiv](https://arxiv.org/abs/2110.13252)) ([Video](https://youtu.be/uyzEtk_fYR8))
 
 <div align="center">
   <img src="https://github.com/xiweix/Visual-Analytics-for-Comparing-CNNs/blob/main/interface.png">
